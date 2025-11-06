@@ -1,0 +1,12 @@
+admin.addPeer("enode://42c137050daed0841c0ba20884c2b5bc168e4919bd8eb04912b735af2ac967407a587ccf3135f5f67d4e44c3e37fac37cc074ae144dc15998b5d7bf9e78d70c5@41.249.79.106:30303")
+admin.peers
+admin.addPeer("enode://42c137050daed0841c0ba20884c2b5bc168e4919bd8eb04912b735af2ac967407a587ccf3135f5f67d4e44c3e37fac37cc074ae144dc15998b5d7bf9e78d70c5@127.0.0.1:30303")
+admin.peers
+admin.addPeer("enode://42c137050daed0841c0ba20884c2b5bc168e4919bd8eb04912b735af2ac967407a587ccf3135f5f67d4e44c3e37fac37cc074ae144dc15998b5d7bf9e78d70c5@127.0.0.1:30303")
+admin.peers
+eth.accounts
+Set-Content -Path .\node1\pw.txt -Value '' -NoNewline
+admin.addPeer("enode://629ce5bd989bfe017f91461d95e2d339d921dca6ec263599617e327d007640a027a4819eee90347edddbce9091e58107b00922089ba38a3e9466525fffb6df56@127.0.0.1:30303")
+admin.peers
+eth.accounts
+eth.getBalance(eth.accounts[0])

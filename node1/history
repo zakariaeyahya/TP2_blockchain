@@ -1,0 +1,14 @@
+eth.accounts
+eth.blockNumber
+admin.nodeInfo.enode
+admin.peers
+admin.nodeInfo.enode
+admin.nodeInfo.ip
+eth.sendTransaction({
+  from: "0xDD15f34fe37C13Bd42A41c00e5729865C688BaDA",
+  to: "0xac526A1c14FEaACd1C6925Ed6df8c5457a4E6adB",
+  value: web3.toWei(1, "ether")
+})
+admin.nodeInfo.enode
+eth.accounts
+eth.getBalance(eth.accounts[0])

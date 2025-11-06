@@ -1,0 +1,8 @@
+# Fichier .gitignore
+node1/geth/
+node2/geth/
+node1/keystore/LOCK
+node2/keystore/LOCK
+*.log
+*.ipc
+*.tmp
