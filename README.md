@@ -1,9 +1,3 @@
-Parfait 💪 !
-Voici ton fichier **`README.md`** complet, clair et bien formaté pour GitHub — il présente ton travail de TP n°2 *Blockchain Privée Ethereum avec Geth* en suivant une structure professionnelle et académique.
-
----
-
-````markdown
 # 🧱 TP N°2 – Création d’une Blockchain Privée Ethereum avec Geth
 
 > Université Abdelmalek Essaâdi – École Nationale des Sciences Appliquées de Tétouan  
