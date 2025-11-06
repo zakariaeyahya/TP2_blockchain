@@ -225,7 +225,7 @@ geth --datadir node2 --networkid 2025 --port 30304 console
 
 ## 🧩 Auteur
 
-**Nom :** [Ton Nom Complet]
+**Nom :** YAHYA ZAKARIAE 
 **Filière :** Big Data & Intelligence Artificielle
 **École :** ENSA Tétouan
 **Année :** 2025–2026
